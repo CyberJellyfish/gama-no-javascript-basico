@@ -1,3 +1,4 @@
+console.log('Javascript carregado');
 function validaCPF(cpf) {
     if(cpf.length != 11){
     return false;
